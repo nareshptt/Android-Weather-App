@@ -105,7 +105,7 @@ class MainActivity : AppCompatActivity() {
             "Light Rain","Rain","Drizzle","Moderate Rain","Showers","Heavy Rain" ->{
                 binding.root.setBackgroundResource(R.drawable.rain_background)
             }
-            "Light Snow","Moderate Snow","Heavy Snow","Blizzard" ->{
+            "Light Snow","Snow","Moderate Snow","Heavy Snow","Blizzard" ->{
                 binding.root.setBackgroundResource(R.drawable.snow_background)
             }
 
