@@ -23,12 +23,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(binding.root)
-         fetchWeatherData("Vadodara")
         Searchcity()
+         fetchWeatherData("Goa")
+
 
     }
-
-
 
     private fun Searchcity() {
         val searchView = binding.searchView
@@ -103,7 +102,7 @@ class MainActivity : AppCompatActivity() {
             "Partly Clouds","Clouds","Overcast","Mist","Foggy"->{
                 binding.root.setBackgroundResource(R.drawable.colud_background)
             }
-            "Light Rain","Drizzle","Moderate Rain","Showers","Heavy Rain" ->{
+            "Light Rain","Rain","Drizzle","Moderate Rain","Showers","Heavy Rain" ->{
                 binding.root.setBackgroundResource(R.drawable.rain_background)
             }
             "Light Snow","Moderate Snow","Heavy Snow","Blizzard" ->{
