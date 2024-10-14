@@ -4,7 +4,7 @@
 
 ## Overview
 
- ☀️ This project was a fantastic learning experience, and I'm excited to showcase skills in data handling, UI/UX design, and API integration.
+ ☀️ This project was a fantastic learning experience, and showcase your skills in data handling, UI/UX design, and API integration.
 
 ## Features
 
