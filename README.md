@@ -19,13 +19,4 @@
 - **API:** OpenWeatherMap API for weather data
 
 
-## Learning Outcomes
-
-Through the development of this weather app, I have:
-
-- Gained hands-on experience with Android development and Kotlin programming.
-- Improved my skills in handling JSON data and integrating RESTful APIs.
-- Enhanced my ability to design and implement user-friendly interfaces using Material Design principles.
-- Developed a better understanding of asynchronous programming and data management.
-
  
